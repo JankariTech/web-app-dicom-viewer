@@ -22,7 +22,6 @@ ownCloud Web DICOM Viewer app.
       "id": "dicom-viewer",
       "path": "",
       "config": { }
-      }
     }
   ]
 }
